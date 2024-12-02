@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: backend
-        image: rgalan94/backend:latest
+        image: rgalan94/backend:RC-4
         ports:
         - containerPort: 5001
